@@ -1,6 +1,6 @@
 # Module 1 Challenge
 
-## Deploy link:
+## Deploy link: https://kwannieng.github.io/module-1-challenge/
 
 
 ## Description 

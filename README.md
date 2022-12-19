@@ -10,5 +10,5 @@ In order to optimize the Horiseon website's accessibility for search engines, Se
 
 ## Screenshot
 
-<img src="screenshot.png" />
+<img src="./assets/images/Screenshot.png" />
 
